@@ -1,0 +1,23 @@
+﻿@model _21_NguyenThanhVinh_WebMVC.Models.HomeModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1><br/>
+    <h2 style="color: red">@Model.Message</h2>
+    <h3>Razor syntax</h3>
+    @{
+        var greeting = "Welcome to ASP.NET MVC Core";
+        var weekDay = DateTime.Now.DayOfWeek;
+    }
+    @{ var ISBNNo = "978-1-80056-718-4";}
+    @{
+        var pro = new { ProductID = 1, ProductName = "Coffee" };
+        <p>ProductID: @pro.ProductID</p>
+        <p>ProductName: @pro.ProductName</p>
+        <p>@greeting</p>
+        <p>@weekDay</p>
+        <p>ISBN@(ISBNNo)</p>
+    }
+</div>
