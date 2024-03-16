@@ -1,0 +1,42 @@
+﻿@using Q2.Models;
+
+<style>
+	th {
+		text-align: left;
+	}
+
+</style>
+
+
+
+<header>
+	<div class="container">
+		<a href="#" class="logo">Q3</a>
+		<a href="#">Home</a>
+		<a href="#">About</a>
+		<a href="#">Contact</a>
+	</div>
+</header>
+<form action="/Project/List" method="get"></form>
+<h3>List of Projects</h3>
+<table>
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Description</th>
+			<th>Type</th>
+			<th>Action</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (Project item in ViewBag.Projects)
+		{
+			<tr>
+				<td>@item.Name</td>
+				<td>@item.Description</td>
+				<td>@item.Type</td>
+				<td> <a href="/Project/Delete?id=@item.Id">Delete</a></td>
+			</tr>
+		}
+	</tbody>
+</table>
