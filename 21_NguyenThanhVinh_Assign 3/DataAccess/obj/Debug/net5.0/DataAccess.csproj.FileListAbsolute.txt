@@ -1,0 +1,91 @@
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\bin\Debug\net5.0\appsettings.json
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\ADMIN\Desktop\SE160385_Ass3\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\ass_bl5\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\bin\Debug\net5.0\DataAccess.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\bin\Debug\net5.0\DataAccess.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\obj\Debug\net5.0\DataAccess.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

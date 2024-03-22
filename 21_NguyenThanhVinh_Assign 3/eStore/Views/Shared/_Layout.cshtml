@@ -1,0 +1,144 @@
+﻿@using System.Security.Claims
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - eStore</title>
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" />
+
+</head>
+
+<body>
+
+	<nav class="fixed-top">
+		<style>
+			.custom-header {
+				display: flex;
+				justify-content: space-around;
+				align-items: center;
+				font-size: 24px;
+				font-weight: bold;
+				text-align: center;
+				background-color: #40e7f7;
+				margin-bottom: 20px;
+			}
+
+			.menu {
+				display: flex;
+				align-items: center;
+				justify-content: space-around;
+				background-color: #333;
+			}
+
+				.menu ul {
+					list-style: none;
+					padding: 0;
+					margin: 0;
+				}
+
+					.menu ul li {
+						display: inline-block;
+					}
+
+						.menu ul li a {
+							display: flex;
+							padding: 10px 20px;
+							text-decoration: none;
+							color: white;
+						}
+
+
+							.menu ul li a:hover {
+								background-color: #f0f0f0; /* Màu nền khi hover */
+							}
+		</style>
+		<div class="custom-header">
+			<h1>eStore</h1>
+		</div>
+	</nav>
+	<div class="container-fluid">
+		<div class="menu">
+			<ul>
+				<li><a asp-controller="Home" asp-action="Index">Home</a></li>
+				<li><a href="Product">Shopping</a></li>
+				<li><a href="#">Search</a></li>
+			</ul>
+		</div>
+		<div class="row">
+			<!-- Left Sidebar -->
+			<nav class="col-md-2 d-md-block bg-light sidebar">
+				<div class="sidebar-sticky">
+					<ul class="nav flex-column">
+						@if (User.Identity.IsAuthenticated)
+						{
+							@if (User.Claims.FirstOrDefault(c => c.Type.Equals(ClaimTypes.Email)).Value.Equals("admin@estore.com"))
+							{ // Admin
+								<li class="nav-item">
+									<a class="nav-link text-dark" asp-controller="Product" asp-action="Index">Shopping</a>
+									<ul>
+										<li class="nav-item">
+											<a class="nav-link" asp-controller="Product" asp-action="Index">Product Management</a>
+										</li>
+									</ul>
+								</li>
+
+								<li class="nav-item">
+									<a class="nav-link">Admin</a>
+									<ul style="">
+										<li class="nav-item">
+											<a class="nav-link" asp-controller="Member" asp-action="Index">Member Management</a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link" asp-controller="Order" asp-action="Index">Order Management</a>
+										</li>
+
+									</ul>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link text-dark" asp-controller="Logout" asp-action="Index">Log Out</a>
+								</li>
+							}
+							else
+							{ // User
+								<li class="nav-item">
+									<a class="nav-link text-dark" asp-controller="Product" asp-action="Index">Shopping</a>
+									<ul>
+										<li class="nav-item">
+											<a class="nav-link text-dark" asp-controller="Cart" asp-action="Index">View Cart</a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link text-dark" asp-controller="Order" asp-action="Index">My Orders</a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link text-dark" asp-controller="Member" asp-action="Profile">Your Profile</a>
+										</li>
+									</ul>
+								</li>
+								<li class="nav-item" S>
+									<a class="nav-link text-dark" asp-controller="Logout" asp-action="Index">Log Out</a>
+								</li>
+							}
+						}
+					</ul>
+				</div>
+			</nav>
+			<main role="main" class="pb-3">
+				@RenderBody()
+			</main>
+		</div>
+	</div>
+
+	<footer class="border-top footer text-muted">
+		<div class="container">
+			&copy; 2021 - eStore - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+		</div>
+	</footer>
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,91 @@
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\bin\Debug\net5.0\appsettings.json
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\PRN_Assignment03_eStore\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\SE160385_Ass3\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+C:\FPT\Semester5th_Su23\PRN211\ASM\PRN211_ASS3-main\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+D:\ass_bl5\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\23_DoHoangTrung_Assignment3\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+E:\THANH VINH Chrome\FPT\SPRING 2024\PRN211\21_NguyenThanhVinh_Assign 3\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
